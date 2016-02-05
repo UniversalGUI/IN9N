@@ -33,7 +33,6 @@ internucleon *
 interruption *  
 intersection *  
 interstation  
-interstellar *  
 intervention  
 intimidation  
 intoxication  
