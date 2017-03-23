@@ -1,4 +1,4 @@
-# ![In9n Logo](logo.png "In9n")
+![In9n Logo](logo.png "In9n")
 
 ## In9n
 
